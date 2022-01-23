@@ -7,7 +7,7 @@ Hi eveyone! My name is Phoebe, I'm the second year master student at CMU major i
 
 # What I hope to Learn
 
-I want to learn more about the data visulization. I want to be a story teller not just programmer. I also want to learn a little bit design for PPT and Web Page. 
+I want to learn more about the data visulization. I want to be a story teller not just programmer. I also want to learn a little bit about design for PPT and Web Page. 
 
 # Portfolio
 
