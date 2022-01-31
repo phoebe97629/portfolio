@@ -14,7 +14,8 @@ I want to learn more about the data visulization. I want to be a story teller no
 Here's where all my cool work will go. You should probably hire me. 
 1. Cell's classification. 
 2. Face classification and Face verification. 
-3. ... to be continued...
+3. Data Visualization. 
+4. ... to be continued...
 
 # Visualizing Government Debt
 How does Asian government deal with debt during beginning of the COVID.
