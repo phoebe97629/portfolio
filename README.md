@@ -22,3 +22,5 @@ How does Asian government deal with debt during beginning of the COVID.
 <iframe src="https://data.oecd.org/chart/6Bmi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bmi" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2020</a></iframe>
 Using Flourish Visualizing Tool
 <div class="flourish-embed flourish-chart" data-src="visualisation/8567284"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Second style:
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8567575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
