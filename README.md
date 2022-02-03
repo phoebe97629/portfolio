@@ -32,7 +32,7 @@ Since it's for government debt, I used red as the base color. I used a grid line
 For the animation style: 
 This chart is for the audience who want to see how the debt varied these years. The circle size represents the %of the debt, and each circle represents one country. Animation is a good way to show the trend by year. 
 
-In class exercise 2/2/2022
+#In class exercise 2/2/2022
 
 <div class='tableauPlaceholder' id='viz1643830900910' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16438308784440&#47;TrustInnewsorganizations_Circle_view' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -46,7 +46,36 @@ In class exercise 2/2/2022
 
 
 
-HW 3&4 Re-Designed the MSL 2013 Salary Reports. 
+#HW 3&4 Re-Designed the MSL 2013 Salary Reports. 
+
+The original design of the Salary Reprots: https://public.tableau.com/views/MLSSalaries/MLSPUDashboard?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y
+
+Re-Design Process: 
+
+1. Change salary as y-aixs and club as x-aixs. 
+2. Sepearte graoh into base salary and compensation. 
+3. Change the title name as MLS clubs' base salary vs compensation 2013. 
+4 Reduce the color using. 
+
+wireframes
+![WechatIMG33](https://user-images.githubusercontent.com/74167244/152413621-f3f2c384-0c2d-49e3-9231-80320bec2203.jpeg)
+User Feedback (My boyfriend):
+
+- Can you tell me what you think this is?. "Its Average Salary for each clubs? "
+
+- Can you describe to me what this is telling you? "NY salary is really high lol. "
+
+- Is there anything you find surprising or confusing? "Is is average salary or the over salary?"
+
+- Who do you think is the intended audience for this? "The MLS fans. "
+
+- Is there anything you would change or do differently? "Overvall its a good graph i think. At least its readable. I guess you can keep the postion variable. Its kind of intereting to investigate which postion has higher salary.  "
+
+your final
+
+Added salary explanation. Added salary unit. Divided each bar by postiion. 
+
+The final visulizaiton:
 
 <div class='tableauPlaceholder' id='viz1643914890421' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2013MSLClubsBaseSalaryVS_Compensation&#47;2013MSLClubsBaseSalaryVS_Compensation' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1643914890421');                    
