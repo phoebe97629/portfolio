@@ -66,7 +66,7 @@ Data source can be found here: https://mlsplayers.org/resources/salary-guide
 
 ### Step two: critique and Re-Design Process: 
 
-After analyzing the graph by using Few's method, I think this graph has several problem. The graph isn't intuitive and communicate will to the audience. 
+After analyzing the graph by using Few's method, I think this graph has several problems. The graph isn't intuitive and communicates well to the audience. 
 
 Below is my first attemp for the re-desin:
 1. Change salary as y-aixs and club as x-aixs. 
