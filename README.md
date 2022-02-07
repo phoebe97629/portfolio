@@ -19,7 +19,7 @@ Here's where all my cool work will go. You should probably hire me.
 
 
 [Assignment 2 Visulizing Government Debt](/assignment2.md)
-[Assignment 3&4 Critique Redesign](/assignment2.md)
+[Assignment 3&4 Critique Redesign](/assignment3&4.md)
 
 
 # Visualizing Government Debt
