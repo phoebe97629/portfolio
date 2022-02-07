@@ -18,9 +18,12 @@ Here's where all my cool work will go. You should probably hire me.
 4. ... to be continued...
 
 
-[Assignment 2 Visulizing Government Debt](/assignment2.md)
-[Assignment 3&4 Critique Redesign](/assignment3&4.md)
-[Assignment 3&4 Critique Redesign](/in_class_exercise.md)
+[Assignment 2 Visulizing Government Debt](/assignment2.md). 
+
+[Assignment 3&4 Critique Redesign](/assignment3&4.md). 
+
+[Assignment 3&4 Critique Redesign](/in_class_exercise.md). 
+
 
 
 # In class exercise 2/2/2022
