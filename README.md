@@ -22,21 +22,6 @@ Here's where all my cool work will go. You should probably hire me.
 [Assignment 3&4 Critique Redesign](/assignment3&4.md)
 
 
-# Visualizing Government Debt
-### How does Asian government deal with debt in 2020.
-<iframe src="https://data.oecd.org/chart/6Bmi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bmi" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2020</a></iframe>
-Using Flourish Visualizing Tool
-#### Grid Style:
-<div class="flourish-embed flourish-chart" data-src="visualisation/8567284"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Animation style:
-<div class="flourish-embed flourish-scatter" data-src="visualisation/8567575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-#### For the grid style chart: 
-Since it's for government debt, I used red as the base color. I used a grid line chart to show how the debt varies from 1995 to 2019 from different countries. I also added a title to the chart, which states what is y-axis represents (debt in % of GDP). I also added year labels on the graph. Instead of adding a y-axis value, I decided to show the year on each grid chart. Because I believe people will focus more on which year has highest the debt, rather than what's the highest value of debt. 
-
-#### For the animation style: 
-This chart is for the audience who want to see how the debt varied these years. The circle size represents the %of the debt, and each circle represents one country. Animation is a good way to show the trend by year. 
-
 # In class exercise 2/2/2022
 
 <div class='tableauPlaceholder' id='viz1643830900910' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16438308784440&#47;TrustInnewsorganizations_Circle_view' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
