@@ -31,10 +31,12 @@ I hope after the presentation, the audience will know why period poverty is one 
 
 
 ## Initial sketches
-We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
-![IMG_0151](https://user-images.githubusercontent.com/74167244/153729813-8533771a-1004-447b-a700-d65d5d89bdaf.jpg)
-![IMG_0152](https://user-images.githubusercontent.com/74167244/153729814-99021304-b022-49c5-ac30-89b9f6b8ba5a.jpg)
+![IMG_0153](https://user-images.githubusercontent.com/74167244/153790546-25d81f9e-16cb-42d2-bb3a-637c91df573b.jpg)
+![IMG_0154](https://user-images.githubusercontent.com/74167244/153790550-895b6c1b-860f-4226-8e22-10f94e6bb901.jpg)
+![IMG_0155](https://user-images.githubusercontent.com/74167244/153790556-da5a356f-0422-4a25-9ee9-c5d2f728faa7.jpg)
+![IMG_0156](https://user-images.githubusercontent.com/74167244/153790563-211fe904-7689-4a3e-b37c-b74815815891.jpg)
+
 
 
 ## The data
