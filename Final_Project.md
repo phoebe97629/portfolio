@@ -28,9 +28,6 @@ Basic strucutre:
 3. Solution: Show how sustainbal period supplied can alliviate period poverty. (happy)
 
 I hope after the presentation, the audience will know why period poverty is one of the major issues in public health in the US, and how we can help them.
-  
-![image](https://user-images.githubusercontent.com/74167244/153788477-a342a1fe-fed4-46a1-8d25-7d8a75bc8711.png)
-
 
 
 ## Initial sketches
