@@ -17,17 +17,13 @@ There are many low-cost sustainable period supplies for women to choose from, wh
 1. Menstrual cups can last up to a decade because they are made of medical-grade silicone, rubber, or latex. If prices stayed consistent over 10 years, women who used a $23 menstrual cup would <font color="red"> save 95% of what they would likely spend on pads, and about 93% of what they would likely spend on tampons during that time, according to the researchers’ calculations.<font>
 2. Like disposable products, period underwear can also be designed to fit your flow. While it's not as cost-effective as a cup (one pair of panties won't see you through your whole flow unless you're really determined to do laundry every day), the investment can still save you some cash. Most period underwear costs around $36. For a five-day flow, without laundry, you'll spend $175. If you take good care of your new underwear, over three years, <font color="red"> you'll have spent less than $5 per period. Given that a box of name-brand tampons runs around $10, that's not a bad deal. <font>
 
-
-Conclusion:
-Many young women cannot afford menstrual health products to meet their monthly needs, and this may impact their mental well-being. Improved access to affordable menstrual products is needed to support these young women.
-
-### Basic strucutre: 
+Basic strucutre: 
 1. Beginning: What is period poverty, and how many people suffering this public healht crisis. (unhappy)
-2. Impact1: Show hom this crisis suffered by differnet age groups and the different impact to them. (unhappy)
+2. Impact1: Show hom this crisis suffered by differnet age groups and the different impacts to them. (unhappy)
 2. Reason: Explian the reason cuased the period poverty. Show how different "tampon tax" imposed by different states at the US. (unhappy) 
 3. Solution: Show how sustainbal period supplied can alliviate period poverty. (happy)
 
-I hope after the presentation, the audience will know why period poverty is one of the major issues in public health in the US, and how we can help them.
+I hope after the presentation, the audience will know why period poverty is one of the major issues in public health in the US, and how we can help them. Many young women cannot afford menstrual health products to meet their monthly needs, and this may impact their mental well-being. Improved access to affordable menstrual products is needed to support these young women.
 
 
 ## Initial sketches
@@ -41,15 +37,27 @@ I hope after the presentation, the audience will know why period poverty is one 
 
 ## The data
   
-1. These websties are talking about how the sustainable period supplies can save money compare with the traditaionl tampon and pads. I want to make a comparison graphs, bar chart or line chart to show how the price gap between the sustainbale supplies with the tampon. 
+1. These websties are talking about how the sustainable period supplies can save money compare with the traditaionl tampon and pads. I want to make a comparison graphs, bar chart or line chart to show how the price gap between the sustainbale supplies with the tampon. The statista only shows one year's data. I will recreate the dataset which includes the price ron 2010 - 2021. 
 https://www.health.com/condition/menstruation/period-products-that-will-save-you-money
 https://www.statista.com/statistics/378647/us-feminine-hygiene-products-average-price-per-unit-by-category/
 
-2. 
+2. This document includes the period poverty varied by states. It includes the percentage of people who suffering period poverty in each states. It only includes PDF format, I will create excel file to store the data. 
+  https://allianceforperiodsupplies.org/wp-content/uploads/2021/09/1-Period-Poverty-Fact-Sheets-2021-All-States-All-and-DC-Final-V1.pdf
+  
+3.This website contains how period poverty impacts teenager and college-age women. I it hard to find the first-hand data which can easily be manipulated. I will probably only investiage theses two age groups. The first website includes different impaces to teenager girlds who are suffereing period poverty, and second webstie talks about how period poverty impact on their mental health. I will try to show the bar chart which each bar represent different impacts and also be divded into theses two age groups.
+  https://www.statista.com/statistics/1243035/negative-impact-of-period-poverty-on-schooling/
+  https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-01149-5
+  
+4. I cannot find the first-hand data for the tampon tax. So that I try to search the luxury tax from each states to represent the tampon tax at 2015, and show how many states still charge unresonable tampon tax today. 
+  https://taxfoundation.org/tampon-taxes-sales-tax/
+  https://taxfoundation.org/sales-tax-rates-major-us-cities/
 
 ## Method and medium
-
-In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
+  
+I have two plan for doing this final projects.
+  
+  1. Use PowerPoing to create a presentation. I will create a ppt with different graphs that I choose. Most of graph I will use Florish or Tableau to create, since most of my chart will be bar chart and pie chart. I'm thinking to create a timeline map for the tampon tax policy changed these years. Since Floish and Tableau is not the best why to create timeline map, I will use PPT to create one. 
+  2. Create Wix website. I'm currently taking the web application course. I think it might be interesting to create a website which contains these graphs and pictures. The webstie will uss CSS or JS to create, and has some animation. 
 
 ## Other Reference 
 
