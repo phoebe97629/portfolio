@@ -2,21 +2,34 @@
 
 ## An outline
 
-The outline of your final project should serve as the building blocks for the rest of your presentation.  Your outline should be something that you can later use to help fill in some of the details around your project.  
+The main purpose of this project is to let the audience understand the definition of period poverty and how this public health crisis influences females living in the United States.
 
-At a minimum, you should include the following: 
+“Period Poverty” has long been a neglected topic. For people who are not menstruating and the people never suffering period poverty, they can barely empathize with the people who are currently experiencing period poverty.
 
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
+There is half of the population menstruating. However, the brutal reality is that one in four people struggle to purchase period supplies due to lack of income. This is called period poverty.
 
-The main purpose of this project is to let the audience understand the defination of period poverty at the middle and low income countries, the cuase of this issues, and how this influcence femail health. 
+This public health crisis is suffered by different age groups. However, for college-aged women, the impact is even worse. Among the sample, 14.2% of women had experienced period poverty ever in the past year; an additional 10% experienced it every month. Compared to those who had never experienced period poverty, the adjusted analysis revealed that women with monthly past-year period poverty were the most likely to report moderate/severe depression (AOR = 2.34, 95% CI 1.09–4.99), followed by those who had experienced it ever in the past year (AOR = 1.83, 95% CI, 0.99–3.38). (Lauren F. 2021)
+
+The cause of the period poverty can be varied. One of the major issues is “tampon tax”. The “luxury tax” collected on menstrual products in the majority of the United States is a major contributor to period poverty and a barrier to reproductive health for the estimated 16.9 million women living in poverty in the U.S. 
+As of June 2019, thirty-five states taxed menstrual products at rates between 4.70%; in Hawaii to 9.90%; in Louisiana, with a mean of 7.41%. Among them, nineteen states taxed between 6 and 7.99%, twelve at >8%, and only four states at <6%. This financial burden decreased the accessibility of menstrual products specifically for the marginalized low-income women and women with heavy menstrual bleeding. The lack of access to menstrual products led to poor menstrual hygiene, decreased participation in work and other activities, and contributed to poor quality of life.
+
+There are many low-cost sustainable period supplies for women to choose from, which alleviate this crisis. 
+1. Menstrual cups can last up to a decade because they are made of medical-grade silicone, rubber, or latex. If prices stayed consistent over 10 years, women who used a $23 menstrual cup would save 95% of what they would likely spend on pads, and about 93% of what they would likely spend on tampons during that time, according to the researchers’ calculations.
+2. Like disposable products, period underwear can also be designed to fit your flow. While it's not as cost-effective as a cup (one pair of panties won't see you through your whole flow unless you're really determined to do laundry every day), the investment can still save you some cash. Most period underwear costs around $36. For a five-day flow, without laundry, you'll spend $175. If you take good care of your new underwear, over three years, you'll have spent less than $5 per period. Given that a box of name-brand tampons runs around $10, that's not a bad deal. 
+
+
+Conclusion:
+Many young women cannot afford menstrual health products to meet their monthly needs, and this may impact their mental well-being. Improved access to affordable menstrual products is needed to support these young women.
+
 
 Basic strucutre: 
 1. Beginning: Show the graph that how many girls. (not that happy)
 2. Show the period utilizier price and tax compare with other essential utilitzies. (unhappy) 
 3. Show nowadays solution for this issuess. How many girls life will change. (happy)
 
-I hope after the the presentation, the audiance will know why period poverty is one of the major issues in the publich health at the middle and low incomd countries. 
+I hope after the presentation, the audience will know why period poverty is one of the major issues in public health in the US, and how we can help them.
+![image](https://user-images.githubusercontent.com/74167244/153788477-a342a1fe-fed4-46a1-8d25-7d8a75bc8711.png)
+
 
 
 ## Initial sketches
