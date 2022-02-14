@@ -21,7 +21,7 @@ There are many low-cost sustainable period supplies for women to choose from, wh
 Conclusion:
 Many young women cannot afford menstrual health products to meet their monthly needs, and this may impact their mental well-being. Improved access to affordable menstrual products is needed to support these young women.
 
-Basic strucutre: 
+### Basic strucutre: 
 1. Beginning: What is period poverty, and how many people suffering this public healht crisis. (unhappy)
 2. Impact1: Show hom this crisis suffered by differnet age groups and the different impact to them. (unhappy)
 2. Reason: Explian the reason cuased the period poverty. Show how different "tampon tax" imposed by different states at the US. (unhappy) 
@@ -40,20 +40,48 @@ I hope after the presentation, the audience will know why period poverty is one 
 
 
 ## The data
+  
+1. These websties are talking about how the sustainable period supplies can save money compare with the traditaionl tampon and pads. I want to make a comparison graphs, bar chart or line chart to show how the price gap between the sustainbale supplies with the tampon. 
+https://www.health.com/condition/menstruation/period-products-that-will-save-you-money
+https://www.statista.com/statistics/378647/us-feminine-hygiene-products-average-price-per-unit-by-category/
 
-It's important that you identify your primary data source.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
-
-At a minimum, you should include the following: 
-
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-01149-5
-
-https://www.mdpi.com/1660-4601/18/5/2571/htm
-
-https://assets.publishing.service.gov.uk/media/5c6e87b8ed915d4a32cf063a/period.pdf
+2. 
 
 ## Method and medium
 
 In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
+
+## Other Reference 
+
+https://www.tpr.org/podcast/the-source/2021-10-19/2-in-5-americans-have-struggled-with-period-poverty-why-are-menstrual-products-still-treated-as-a-luxury-instead-of-a-necessity
+
+https://www.marieclaire.com/politics/a29490059/tampon-tax-state-guide/
+
+https://allianceforperiodsupplies.org/wp-content/uploads/2021/09/1-Period-Poverty-Fact-Sheets-2021-All-States-All-and-DC-Final-V1.pdf
+https://allianceforperiodsupplies.org/period-poverty/
+
+https://www.statista.com/statistics/1242985/us-period-poverty-teenage-students/
+
+https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-01149-5
+
+https://journals.lww.com/greenjournal/Abstract/2020/05001/Period_Poverty_and_the_Menstrual_Product_Tax_in.234.aspx
+
+https://www.medicalnewstoday.com/articles/period-poverty#how-it-affects-people
+
+https://www.nursing.upenn.edu/details/news.php?id=1545
+
+https://19thnews.org/2021/05/it-cannot-be-this-way-what-is-period-poverty-and-how-to-solve-it/
+
+https://www.globalcitizen.org/en/content/noble-menstrual-cup-ethiopia-sara-eklund-interview/
+
+
+
+
+https://www.borgenmagazine.com/period-poverty-solutions/
+
+https://www.grove.co/blog/period-underwear-guide
+
+https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/menstrual-cups-vs-tampons-things-you-might-not-know-about-the-cup#:~:text=The%20average%20woman%20spends%20between,six%20months%20to%2010%20years.
+![image](https://user-images.githubusercontent.com/74167244/153791547-8556e239-26d9-42c9-8279-ca982eca4bd8.png)
+
 
