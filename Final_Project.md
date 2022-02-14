@@ -74,14 +74,10 @@ https://19thnews.org/2021/05/it-cannot-be-this-way-what-is-period-poverty-and-ho
 
 https://www.globalcitizen.org/en/content/noble-menstrual-cup-ethiopia-sara-eklund-interview/
 
-
-
-
 https://www.borgenmagazine.com/period-poverty-solutions/
 
 https://www.grove.co/blog/period-underwear-guide
 
 https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/menstrual-cups-vs-tampons-things-you-might-not-know-about-the-cup#:~:text=The%20average%20woman%20spends%20between,six%20months%20to%2010%20years.
-![image](https://user-images.githubusercontent.com/74167244/153791547-8556e239-26d9-42c9-8279-ca982eca4bd8.png)
 
 
