@@ -18,7 +18,7 @@ Let's take a closer look at the elephant in the room. According to a survey cond
 What's worse is that period poverty is not only affecting their personal hygiene, but also their mental health. According to the graph below, those who are in period poverty are also suffering mental stress including period shame, especially self-conscious of period, don't want to be at school, etc.  
 <div class="flourish-embed flourish-chart" data-src="visualisation/8773673"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The reason why period poverty is happending is due to the unresonable tampon tax tampon price. The tampon tax can bring a huge financial benefits for many states. Expecially since those products could never ve substituded. 
+The reason why period poverty is happending is due to the unresonable tampon tax tampon price. The tampon tax can bring a huge financial benefits for many states. Expecially since those products could never be substituded. From the below chart we can see that, some of the states still imposed the tampon tax. At Texas, the tax revenue of female hygiene products is reached to 24,898,771 USD, compared to the reality that 17% of female and girls living the poverty in Texas.
 <div class='tableauPlaceholder' id='viz1645500486219' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16438308784440&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
 </div>                
 <script type='text/javascript'>                    
@@ -30,20 +30,24 @@ The reason why period poverty is happending is due to the unresonable tampon tax
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-In recognizing the problems, many states have started making changes. NY cancelled tampon tax on 2020, followed by many other states. There are also many sustainable substitutes available for those who are living in the states where maternity products are highly taxed. 
+In recognizing the problems, many states have started making changes. NY cancelled tampon tax on 2020, followed by many other states. 
+For those who are living in the states where maternity products are highly taxed, there are also many sustainable substitutes available which can siginicantly reduce the cost on female hygienen products. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774238"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The sustainbale substitutes has the higher unit price than traditional female hygienen products for sure. However, those substituese, like period cups are durable and can last for 6 months to 10 years with proper care.  
+
 Call to Action: 
-Aware the issue. Push forward legislation for eliminating tax on maternity products. Stop period shaming. Offer love to those who are suffering. 
+For all the US citizents, we need aware the issue and push forward legislation for eliminating tax on maternity products. Stop period shaming. Offer love to those who are suffering. 
 
 
 ## Interview. 
 1. How do you feel the clarity of the topic? 
-2. Does the visulization makes sense to you? Is there anything you don't understand? 
-3. Does the storyline makes sense to you? What are you expect to see in the the particular sections? 
-4. How do you like this topic? What would you add if you are doing the same topic? 
-5. Does this presentation makes you want to take an action? 
+2. Who do you think the audiance can be?
+3. Does the visulization makes sense to you? Is there anything you don't understand? 
+4. Does the storyline makes sense to you? What are you expect to see in the the particular sections? 
+5. How do you like this topic? What would you add if you are doing the same topic? 
+6. Does this presentation makes you want to take an action? 
 
 
 Interview Summary: 
