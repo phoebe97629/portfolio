@@ -1,4 +1,4 @@
-# Final PrOject Part II (Impact of Pink Tax) 
+# Final Project Part II (Impact of Pink Tax) 
 
 ## wireframing / storyboards.  
 
