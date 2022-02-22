@@ -45,3 +45,27 @@ Aware the issue. Push forward legislation for eliminating tax on maternity produ
 4. How do you like this topic? What would you add if you are doing the same topic? 
 5. Does this presentation makes you want to take an action? 
 
+
+Interview Summary: 
+First person: 
+"I believe this portfolio can be improved significantly if following a deliberate narrative structure (a narrative arc to be precise). I don’t see a clear narrative structure in the current version. By switching up the order of the narrative, this report can convey a much more compelling message. 
+To follow a narrative structure, I believe the opening should put more focus on defining what period poverty is. The “Share of US teenager students who experienced period poverty” graph can be used as a good demonstration. 
+For the middle part of the narrative structure, the presenter should focus on demonstrating how bad the situation is. The climax should convey the message of “we are in real trouble” as the presenter put together the narrative step-by-step to reach that pinnacle. 
+Last but not least, the conclusion part should wrap up the problems and provide solutions for the future. 
+The presentation could also benefit a ton by choosing the right format for the graphics. For instance, when conveying the message of “there are 16.9 million people who are currently suffering from period poverty”, pie chart might not be the best choice as it puts emphasis on how small the portion of females who are experiencing the issue. The presenter should try to persuade the audience that “16.9 million is a big number” instead of “only 11.2% of the whole population is impacted by the issue”. "
+
+Second Person: 
+"Overall I like this topic and the storyline makes sense to me. I believe the order of the last two graphs could switch the order. The last chart can be set as second one. 
+The graph can be improved is if adding the labeles and highlighted what you want the audiance want to see. For the second graph, I belive the percentage is not quit important and maybe use bubble chart is a better option, the text is not clear. For the call on action, since we, as the audiance, cannot change the tax. The action could be more specific to the audiance you choose. " 
+
+Third Person; 
+"From the beginning, I think you forgot importance of this topic. Something impactful to grab audience attention. Hard for audience follow what I’m trying to say. Change the words of “period”. They might not fully understand the words, more professional. (change to female hygiene for the whole presentation). Why this problem is important. The graph is missing labels. Revenue for each state. Put number in front of it. Some of the graph is missing titles. Just focus on the products that most commonly used. Make the description on the right side. And only show the percentage of each sectors. 
+3.	Make sense. Just need more explaination on the tax. And what means to female. 
+4.	The topic is important. 
+5.	Yes, as a female. " 
+
+
+Summary: 
+Most of the interviewees want to feel like the draft storyline could be better if I switch the graph order. Also, the graph should highlight the crucial/important part. The audiance isn't clear when I first show them, but I changed the call to action for the citizen of the US to push forward legislation for eliminating tax on maternity products. 
+
+
