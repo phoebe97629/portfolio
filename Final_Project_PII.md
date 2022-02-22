@@ -14,8 +14,14 @@ Let's take a closer look for the tennager girl. Period poverty can be divided in
 What it worse, it that period poverty not only affect these girls persnal health, but also their study. Most of teenagers will feel shameful when they at school due to lack of period products. They will also struggle on ther school work and don't want to be at school. 
 <div class="flourish-embed" data-src="story/1145329"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The reason why period poverty is happending is due to the unresonable tampon tax tampon price. 
+The reason why period poverty is happending is due to the unresonable tampon tax tampon price. The tampon tax can bring a huge financial benefits for each states. Expecially those products will always be purchased and with not subastitude. 
+<div class="flourish-embed" data-src="story/1145337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The good news is, many states start makes a change. NY cancel the tampon tax on 2020, and there are many states plan to do that. For the people who haven't benefit from the tax-free period products, they can also purchase the sustainable substitude. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8773918"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Call on Action: 
+Lets eliminate the tampon tax and help female population who experiencing period poverty.
 
 
 
