@@ -35,7 +35,7 @@ For those who are living in the states where maternity products are highly taxed
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774238"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The sustainbale substitutes has the higher unit price than traditional female hygienen products for sure. However, those substituese, like period cups are durable and can last for 6 months to 10 years with proper care.  
+The sustainbale substitutes has the higher unit price than traditional female hygienen products for sure. However, period cups are durable and can last for 6 months to 10 years with proper care. If we calcualte the yearly cost of the female hygienen products, period cups only cost $20 yearly, the tampon / pads will cost almost $100 dollar yearly. 
 
 Call to Action: 
 For all the US citizents, we need aware the issue and push forward legislation for eliminating tax on maternity products. Stop period shaming. Offer love to those who are suffering. 
