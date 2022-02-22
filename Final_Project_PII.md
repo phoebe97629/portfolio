@@ -27,7 +27,7 @@ The reason why period poverty is happending is due to the unresonable tampon tax
 </script>
 
 The good news is, many states start makes a change. NY cancel the tampon tax on 2020, and there are many states plan to do that. For the people who haven't benefit from the tax-free period products, they can also purchase the sustainable substitude. 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8773918"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/8774238"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Call on Action: 
 Lets eliminate the tampon tax and help female population who experiencing period poverty.
