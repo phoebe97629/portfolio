@@ -4,7 +4,7 @@
 
 “Period Poverty” has long been a neglected public health problem in the US. The brutal reality is that there are approximately 16.9 million females who are suffering from period poverty, which is around 11.2% of the entire female population in the US. 
 
-<div class="flourish-embed" data-src="story/1145285"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/8773490"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Although 11.2% might seem to be a small chunk of the population, what behind this number is 16.9 million female individuals who are experiencing unimaginable pain in their daily life. Due to finanial factors, these poor individuals could not get access to female hygine products, which lead to trauma both physically and mentally. 
  
