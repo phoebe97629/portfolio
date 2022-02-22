@@ -66,7 +66,7 @@ Third Person;
 "From the beginning, I think you forgot importance of this topic. Something impactful to grab audience attention. Hard for audience follow what I’m trying to say. Change the words of “period”. They might not fully understand the words, more professional. (change to female hygiene for the whole presentation). Why this problem is important. The graph is missing labels. Revenue for each state. Put number in front of it. Some of the graph is missing titles. Just focus on the products that most commonly used. Make the description on the right side. And only show the percentage of each sectors. 
 3.	Make sense. Just need more explaination on the tax. And what means to female. 
 4.	The topic is important. 
-5.	Yes, as a female. " 
+5.	Yes"
 
 
 Summary: 
