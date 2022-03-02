@@ -24,6 +24,6 @@ Here's where all my cool work will go. You should probably hire me.
 
 [In class exercise](/in_class_exercise.md). 
 
-[Final Project](/Final_Project.md).\n
+[Final Project](/Final_Project.md)./n
 [Final Project P2](/Final_Project_PII.md)\n
 [Final Project P3](/Final_Project_PIII.md)\n
