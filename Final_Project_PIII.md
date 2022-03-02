@@ -25,7 +25,18 @@ https://preview.shorthand.com/OjTVhU4bO95RsnXE
 
 
 Summary: 
-From this final assignment, I actually learned a lot from my classmates. Especially about how to form a stron call to action and the storyline. I feel like listening to the audiance is verty important
-when I try to create a visulization project. 
+From this final assignment, I actually learned a lot from my classmates. Especially about how to form a stron call to action and the storyline. I feel like listening to the audiance is verty important when people try to create a visulization project. 
+
+Resrouces for creating the visulization:
+All the picture on the shorthand created from the https://unsplash.com/.
+Listed below are the data sources I used: (Statistics should use CMU library to see the data)
+https://www-statista-com.cmu.idm.oclc.org/statistics/1242985/us-period-poverty-teenage-students/
+https://www-statista-com.cmu.idm.oclc.org/statistics/1243035/negative-impact-of-period-poverty-on-schooling/
+https://www.medicalnewstoday.com/articles/period-poverty#statistics
+https://onlinenursing.duq.edu/master-science-nursing/the-ultimate-guide-to-feminine-hygiene/
+https://docs.google.com/spreadsheets/d/1nhbaMOeLJbfbtyNy_qS2Pc5wZDcKosWL-ROyIKRipDs/edit#gid=0
+https://www-statista-com.cmu.idm.oclc.org/statistics/378647/us-feminine-hygiene-products-average-price-per-unit-by-category/
+https://actionnetwork.org/petitions/end-tampon-tax-texas-freetheperiod/#:~:text=Every%20year%2C%20Texan%20menstruators%20are,hygiene%20is%20unnecessary%20%2D%20a%20luxury.
+
  
 
