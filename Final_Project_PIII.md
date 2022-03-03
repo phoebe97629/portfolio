@@ -24,7 +24,7 @@ After the presentation, I also added two buttons for the audience. This provides
 I re-think about the audience that I want to talk to. For this presentation, I'm targetting two groups of people. First is the regular US citizens who don't have the period poverty issues. This presentation (visualization project) will let them aware of these huge public health problems. And then by showing the high tampon tax, those people can choose to join the Tax-Free Period movement to help the people who have period poverty issues. The second group of audience is the people who are suffering the period poverty. They can firstly know that people are taking action right now, and then they will know how to reduce these costs by switching to using sustainable female hygiene products. 
 
 The Final Project and be found below: 
-https://preview.shorthand.com/OjTVhU4bO95RsnXE
+https://carnegiemellon.shorthandstories.com/impact-of-period-poverty-in-the-u-s/index.html
 
 
 ## Summary: 
