@@ -18,6 +18,7 @@ Here's where all my cool work will go. You should probably hire me.
 3. Data Visualization. 
 4. ... to be continued...
 
+# Here is my homeworkd and other assignements!
 
 [Assignment 2 Visulizing Government Debt](/assignment2.md). 
 
